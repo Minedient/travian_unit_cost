@@ -1,0 +1,82 @@
+[
+    {
+        "name": "legionnaire",
+        "chinese_name": "古羅馬步兵",
+        "wood_cost": 120,
+        "brick_cost": 100,
+        "metal_cost": 150,
+        "wheat_cost": 30
+    },
+    {
+        "name": "praetorian",
+        "chinese_name": "禁衛兵",
+        "wood_cost": 100,
+        "brick_cost": 130,
+        "metal_cost": 160,
+        "wheat_cost": 70
+    },
+    {
+        "name": "imperian",
+        "chinese_name": "帝國兵",
+        "wood_cost": 150,
+        "brick_cost": 160,
+        "metal_cost": 210,
+        "wheat_cost": 80
+    },
+    {
+        "name": "equites legati",
+        "chinese_name": "使者騎士",
+        "wood_cost": 140,
+        "brick_cost": 160,
+        "metal_cost": 20,
+        "wheat_cost": 40
+    },
+    {
+        "name": "equites imperatoris",
+        "chinese_name": "帝國騎士",
+        "wood_cost": 550,
+        "brick_cost": 440,
+        "metal_cost": 320,
+        "wheat_cost": 100
+    },
+    {
+        "name": "equites cesaris",
+        "chinese_name": "將軍騎士",
+        "wood_cost": 550,
+        "brick_cost": 640,
+        "metal_cost": 800,
+        "wheat_cost": 180
+    },
+    {
+        "name": "battering ram",
+        "chinese_name": "衝撞車",
+        "wood_cost": 900,
+        "brick_cost": 360,
+        "metal_cost": 500,
+        "wheat_cost": 70
+    },
+    {
+        "name": "fire catapult",
+        "chinese_name": "火焰投石機",
+        "wood_cost": 950,
+        "brick_cost": 1350,
+        "metal_cost": 600,
+        "wheat_cost": 90
+    },
+    {
+        "name": "senator",
+        "chinese_name": "參議員",
+        "wood_cost": 30750,
+        "brick_cost": 27200,
+        "metal_cost": 45000,
+        "wheat_cost": 37500
+    },
+    {
+        "name": "settler",
+        "chinese_name": "開拓者",
+        "wood_cost": 5800,
+        "brick_cost": 5300,
+        "metal_cost": 7200,
+        "wheat_cost": 5500
+    }
+]
