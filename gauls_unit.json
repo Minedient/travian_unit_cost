@@ -3,7 +3,7 @@
         "name": "phalanx",
         "chinese_name": "方陣兵",
         "wood_cost": 100,
-        "clay_cost": 130,
+        "brick_cost": 130,
         "metal_cost": 55,
         "wheat_cost": 30
     },
@@ -11,7 +11,7 @@
         "name": "swordsman",
         "chinese_name": "劍士",
         "wood_cost": 140,
-        "clay_cost": 150,
+        "brick_cost": 150,
         "metal_cost": 185,
         "wheat_cost": 60
     },
@@ -19,7 +19,7 @@
         "name": "pathfinder",
         "chinese_name": "探路者",
         "wood_cost": 170,
-        "clay_cost": 150,
+        "brick_cost": 150,
         "metal_cost": 20,
         "wheat_cost": 40
     },
@@ -27,7 +27,7 @@
         "name": "theutates_thunder",
         "chinese_name": "雷法師",
         "wood_cost": 350,
-        "clay_cost": 450,
+        "brick_cost": 450,
         "metal_cost": 230,
         "wheat_cost": 60
     },
@@ -35,7 +35,7 @@
         "name": "druidrider",
         "chinese_name": "德魯伊騎兵",
         "wood_cost": 360,
-        "clay_cost": 330,
+        "brick_cost": 330,
         "metal_cost": 280,
         "wheat_cost": 120
     },
@@ -43,7 +43,7 @@
         "name": "haeduan",
         "chinese_name": "海頓聖騎",
         "wood_cost": 500,
-        "clay_cost": 620,
+        "brick_cost": 620,
         "metal_cost": 675,
         "wheat_cost": 170
     },
@@ -51,7 +51,7 @@
         "name": "ram",
         "chinese_name": "衝撞車",
         "wood_cost": 950,
-        "clay_cost": 555,
+        "brick_cost": 555,
         "metal_cost": 330,
         "wheat_cost": 75
     },
@@ -59,7 +59,7 @@
         "name": "trebuchet",
         "chinese_name": "投石機",
         "wood_cost": 960,
-        "clay_cost": 1450,
+        "brick_cost": 1450,
         "metal_cost": 630,
         "wheat_cost": 90
     },
@@ -67,7 +67,7 @@
         "name": "chieftain",
         "chinese_name": "族長",
         "wood_cost": 30750,
-        "clay_cost": 45400,
+        "brick_cost": 45400,
         "metal_cost": 31000,
         "wheat_cost": 37500
     },
@@ -75,7 +75,7 @@
         "name": "settler",
         "chinese_name": "開拓者",
         "wood_cost": 5500,
-        "clay_cost": 7000,
+        "brick_cost": 7000,
         "metal_cost": 5300,
         "wheat_cost": 4900
     }
