@@ -32,7 +32,7 @@
         "wheat_cost": 50
     },
     {
-        "name": "theutates_thunder",
+        "name": "paladin",
         "chinese_name": "俠客",
         "wood_cost": 370,
         "brick_cost": 270,
@@ -40,7 +40,7 @@
         "wheat_cost": 75
     },
     {
-        "name": "druidrider",
+        "name": "teutonic knight",
         "chinese_name": "條頓騎士",
         "wood_cost": 450,
         "brick_cost": 515,
@@ -56,7 +56,7 @@
         "wheat_cost": 70
     },
     {
-        "name": "trebuchet",
+        "name": "catapult",
         "chinese_name": "投石機",
         "wood_cost": 900,
         "brick_cost": 1200,
