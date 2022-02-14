@@ -1,0 +1,82 @@
+[
+    {
+        "name": "clubswinger",
+        "chinese_name": "棍棒兵",
+        "wood_cost": 95,
+        "brick_cost": 75,
+        "metal_cost": 40,
+        "wheat_cost": 40
+    },
+    {
+        "name": "spearman",
+        "chinese_name": "矛兵",
+        "wood_cost": 145,
+        "brick_cost": 70,
+        "metal_cost": 85,
+        "wheat_cost": 40
+    },
+    {
+        "name": "axeman",
+        "chinese_name": "斧頭兵",
+        "wood_cost": 130,
+        "brick_cost": 120,
+        "metal_cost": 170,
+        "wheat_cost": 70
+    },
+    {
+        "name": "scout",
+        "chinese_name": "偵察兵",
+        "wood_cost": 160,
+        "brick_cost": 100,
+        "metal_cost": 50,
+        "wheat_cost": 50
+    },
+    {
+        "name": "theutates_thunder",
+        "chinese_name": "俠客",
+        "wood_cost": 370,
+        "brick_cost": 270,
+        "metal_cost": 290,
+        "wheat_cost": 75
+    },
+    {
+        "name": "druidrider",
+        "chinese_name": "條頓騎士",
+        "wood_cost": 450,
+        "brick_cost": 515,
+        "metal_cost": 480,
+        "wheat_cost": 80
+    },
+    {
+        "name": "ram",
+        "chinese_name": "衝撞車",
+        "wood_cost": 1000,
+        "brick_cost": 300,
+        "metal_cost": 350,
+        "wheat_cost": 70
+    },
+    {
+        "name": "trebuchet",
+        "chinese_name": "投石機",
+        "wood_cost": 900,
+        "brick_cost": 1200,
+        "metal_cost": 600,
+        "wheat_cost": 60
+    },
+    {
+        "name": "chief",
+        "chinese_name": "司令官",
+        "wood_cost": 35500,
+        "brick_cost": 26600,
+        "metal_cost": 25000,
+        "wheat_cost": 27200
+    },
+    {
+        "name": "settler",
+        "chinese_name": "開拓者",
+        "wood_cost": 7200,
+        "brick_cost": 5500,
+        "metal_cost": 5800,
+        "wheat_cost": 6500
+    }
+]
